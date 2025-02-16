@@ -1,5 +1,4 @@
 
-### 💫 About Me:
 ## 🚀 Hey there! I'm Krish Bhimani  
 
 🔍 Passionate about **AI, Machine Learning, and Generative AI**, I enjoy exploring **AI models, prompt engineering, and testing cutting-edge AI tools**.  
