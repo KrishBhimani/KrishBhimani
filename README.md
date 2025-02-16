@@ -11,6 +11,7 @@ KrishBhimani/KrishBhimani is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
+🚀 Hey there! I'm Krish Bhimani<br>
 🔬 Passionate about AI, Machine Learning, and Generative AI, I love turning complex problems into intelligent solutions.<br>🛠️ Currently building AI-powered applications<br>💡 Always up for collaborations on NLP, GEN AI, and scalable AI architectures—let’s build something groundbreaking!<br>🤖 Exploring retrieval-augmented generation (RAG), multi-agent AI systems, and automated ML pipelines.<br>📚 I'm currently learning advanced generative AI, retrieval-augmented generation (RAG), Agentic AI and scalable AI architectures.<br>I am the Treasurer of institute-level college committee DJS ACM SIGAI.<br>
 
 
