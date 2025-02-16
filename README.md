@@ -1,7 +1,19 @@
 
-## 💫 About Me:
-🚀 Hey there! I'm Krish Bhimani<br>
-🔬 Passionate about AI, Machine Learning, and Generative AI, I love turning complex problems into intelligent solutions.<br>🛠️ Currently building AI-powered applications<br>💡 Always up for collaborations on NLP, GEN AI, and scalable AI architectures—let’s build something groundbreaking!<br>🤖 Exploring retrieval-augmented generation (RAG), multi-agent AI systems, and automated ML pipelines.<br>📚 I'm currently learning advanced generative AI, retrieval-augmented generation (RAG), Agentic AI and scalable AI architectures.<br>I am the Treasurer of institute-level college committee DJS ACM SIGAI.<br>
+### 💫 About Me:
+## 🚀 Hey there! I'm Krish Bhimani  
+
+🔍 Passionate about **AI, Machine Learning, and Generative AI**, I enjoy exploring **AI models, prompt engineering, and testing cutting-edge AI tools**.  
+
+🛠️ Currently working on AI-driven solutions like **QueryFlow AI (an enterprise support agent using RAG)** and **MarketTrend AI (a stock analysis system powered by deep learning)**.  
+
+🤝 Open to collaborating on **AI tools that optimize business processes, automate workflows, and enhance multimodal learning**. If you're building something impactful, let's talk!  
+
+⚡ My expertise spans **NLP, Deep Learning, Generative AI, Transformers Architecture, RAG, and Multi-Agent Systems**—I thrive on **solving real-world problems with AI**.  
+
+💡 I don’t just build AI models—I ensure they are **efficient, scalable, and ready for production**.  
+
+📬 If you're building something cool in AI, let’s brainstorm and collaborate!  
+
 
 
 ## 🌐 Socials:
